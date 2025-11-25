@@ -37,9 +37,7 @@ Certifique-se de instalar essas ferramentas nas versões descritas ou superiores
 
 ### 1. Escolha um diretório
 
-Crie uma nova pasta nomeada "Projeto LH" ou um nome de preferência. Ao acessar a pasta, na barra de endereços, digite `cmd`:
-
-![diretoriocmd](/img/diretoriocmd.png)
+Crie uma nova pasta nomeada "Projeto LH" ou um nome de preferência. Ao acessar a pasta, na barra de endereços, digite `cmd`
 
 ### 2. Clonando e acessando 
 
